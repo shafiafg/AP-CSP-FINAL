@@ -19,7 +19,7 @@ hard_btn.pack(pady=5)
 answer_btn = tk.Button(window, text="SHOW ANSWER")
 answer_btn.pack(pady=5)
 
-GEMINI_API_KEY=API_KEY
+GEMINI_API_KEY=os.getenv("GEMINI_API_KEY")
 
 window.mainloop()
 
