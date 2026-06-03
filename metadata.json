@@ -1,0 +1,6 @@
+{
+  "name": "AP CSP MCQ Generator",
+  "description": "An interactive multiple-choice question generator for AP Computer Science Principles with difficulty settings and detailed answer explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
