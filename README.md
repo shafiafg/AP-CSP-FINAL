@@ -2,12 +2,6 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/af58fee6-b99b-4042-aa13-a54538f752c5
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
@@ -18,3 +12,4 @@ View your app in AI Studio: https://ai.studio/apps/af58fee6-b99b-4042-aa13-a5453
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+## it is deployed on vercel and its link is ap-csp-final.vercel.app if you want to look at how it looks.
