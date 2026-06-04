@@ -117,7 +117,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-xl font-bold tracking-tight text-white font-display">AP CSP MCQ generator</h1>
-              <p className="text-xs text-slate-400 font-medium tracking-wide uppercase">Unit 3: Algorithms & programming</p>
+              <p className="text-xs text-slate-400 font-medium tracking-wide uppercase">All Exam Units</p>
             </div>
           </div>
 
