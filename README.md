@@ -12,3 +12,4 @@
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+## it is deployed on vercel and its link is ap-csp-final.vercel.app if you want to look at how it looks.
